@@ -46,7 +46,16 @@ class ViewController: UIViewController, AVAudioPlayerDelegate, AVAudioRecorderDe
     }
     
     
-    // BUTTONS
+    /*
+
+        SOUND BUTTONS
+        ----------------------------------------
+        Sounds sourced from the game 'Destiny' 
+        by Bungie, captured and curated via 
+        www.Reddit.com/r/destinythegame by 
+        Connor Leo (u/Famous_Last_Turds).
+
+    */
     
     //characters
     
@@ -70,7 +79,7 @@ class ViewController: UIViewController, AVAudioPlayerDelegate, AVAudioRecorderDe
     @IBAction func icebreakerBtn(sender: AnyObject) { playAudio("ice-breaker") }
     
     
-    //casses
+    //classes
     
     @IBAction func warlockBtn(sender: AnyObject) { playAudio("warlock") }
     
