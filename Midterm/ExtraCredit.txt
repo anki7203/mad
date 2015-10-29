@@ -1,0 +1,3 @@
+- Slider and switch control added
+- Auto-layout and constraints (kind of)
+- Second view controller to receive information
