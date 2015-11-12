@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Feels</string>
+    <string name="action_settings">Settings</string>
+    <string name="main_header">How are you Feeling?</string>
+    <string name="name_btn">Go!</string>
+    <string name="yoga_title">Yoga:</string>
+    <string name="yoga_btn1">Yin</string>
+    <string name="yoga_btn2">Bikram</string>
+    <string name="yoga_btn3">Hatha</string>
+    <string name="checkbox1">Sarcastic</string>
+    <string name="checkbox2">Conservative</string>
+    <string name="checkbox3">Secretive</string>
+    <string name="checkbox4">Enlightened</string>
+    <string name="switch_label">Do you meditate?</string>
+    <string name="switch_on">Yes</string>
+    <string name="switch_off">No</string>
+    <string name="toggle_label">Chi Alignment:</string>
+    <string name="toggle_on">Up</string>
+    <string name="toggle_off">Down</string>
+    <string name="output"></string>
+
+
+    <string-array name="spinner_options">
+        <item>happy</item>
+        <item>sad</item>
+        <item>confused</item>
+        <item>angry</item>
+    </string-array>
+</resources>
