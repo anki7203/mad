@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="kiproff.lab10.receive_game"
+    android:background="#424242"
+    android:id="@+id/myWebView">
+
+    <ImageButton
+        android:layout_width="60sp"
+        android:layout_height="60sp"
+        android:id="@+id/imageButton"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/link"
+        android:layout_marginBottom="50sp"
+        android:onClick="loadWebSite" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/title"
+        android:id="@+id/gameTitleTextView"
+        android:textAlignment="center"
+        android:textColor="#FDD835"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:typeface="sans"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="100sp" />
+
+    <WebView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/webView"
+        android:layout_centerVertical="true"
+        android:layout_alignLeft="@+id/gameTitleTextView"
+        android:layout_alignStart="@+id/gameTitleTextView" />
+
+</RelativeLayout>

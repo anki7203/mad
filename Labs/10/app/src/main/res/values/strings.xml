@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FPS Picker Pro</string>
+    <string name="title">Find a Game!</string>
+    <string name="subTitle">Select a Genre:</string>
+    <string name="btnLabel">Find Game</string>
+
+
+    <string-array name="genres">
+        <item>action</item>
+        <item>adventure</item>
+        <item>history</item>
+        <item>terror</item>
+        <item>mystery</item>
+        <item>sci-fi</item>
+    </string-array>
+</resources>
