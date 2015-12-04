@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Walk About It!</string>
+    <string name="height_label">Enter Your Height:</string>
+    <string name="distance_label">Select a Distance:</string>
+</resources>
