@@ -36,7 +36,7 @@ $(document).ready(function(){
 			url: "controller.php", 
 			data: { init: initStr }
 		}).done(function(data){
-			alert(data);
+			console.log('data initiated...');
 		});
 
 		$("button").on('click', function(){
