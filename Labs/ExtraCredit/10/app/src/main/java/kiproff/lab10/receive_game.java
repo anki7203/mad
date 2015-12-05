@@ -30,8 +30,8 @@ public class receive_game extends AppCompatActivity {
         System.out.println(gameUrl);
 
         TextView messageView = (TextView) findViewById(R.id.gameTitleTextView);
-        String titleSegway = getResources().getString(R.string.titleSegway);
-        messageView.setText(titleSegway+" "+gameTitle);
+        String titleSegue = getResources().getString(R.string.titleSegue);
+        messageView.setText(titleSegue+" "+gameTitle);
 
         WebView myWebView = (WebView) findViewById(R.id.webView);
         myWebView.setVisibility(View.GONE);

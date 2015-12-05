@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FPS Escolha Pro!</string>
+    <string name="title">Encontrar um Jogo!</string>
+    <string name="subTitle">Selecione um Gênero:</string>
+    <string name="btnLabel">obter Jogo</string>
+    <string name="titleSegue">Você deveria ver</string>
+
+
+    <string-array name="genres">
+        <item>Açao</item>
+        <item>Aventura</item>
+        <item>História</item>
+        <item>Terror</item>
+        <item>Mistério</item>
+        <item>Ficção-Científica</item>
+    </string-array>
+</resources>

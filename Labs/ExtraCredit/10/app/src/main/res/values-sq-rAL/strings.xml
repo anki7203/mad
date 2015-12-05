@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FPS Zgjedhja Profesionale</string>
+    <string name="title">Gjeni një lojë!</string>
+    <string name="subTitle">Zgjidh një zhanër:</string>
+    <string name="btnLabel">Gjej lojë</string>
+    <string name="titleSegue">Ju duhet të shikoni</string>
+
+
+    <string-array name="genres">
+        <item>Veprim</item>
+        <item>Aventurë</item>
+        <item>Histori</item>
+        <item>Terror</item>
+        <item>Mister</item>
+        <item>Fantashkencë</item>
+    </string-array>
+</resources>

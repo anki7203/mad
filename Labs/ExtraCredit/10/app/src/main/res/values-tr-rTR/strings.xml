@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FPS seçim Profesyonel!</string>
+    <string name="title">Bir Bul Oyunu!</string>
+    <string name="subTitle">Bir Tür Seçiniz:</string>
+    <string name="btnLabel">Oyunu alın</string>
+    <string name="titleSegue">Görmelisin</string>
+
+    <string-array name="genres">
+        <item>Eylem</item>
+        <item>Macera</item>
+        <item>Geçmiş</item>
+        <item>Terör</item>
+        <item>Gizem</item>
+        <item>Bilim-Furgu</item>
+    </string-array>
+</resources>

@@ -1,0 +1,3 @@
+App works well and looks clean in landscape and portrait mode.
+
+Localized for Albanian, Turkish, and Portugese.

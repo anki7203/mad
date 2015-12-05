@@ -62,8 +62,8 @@
         android:background="#dddddd"
         android:entries="@array/genres"
         android:focusable="true"
-        android:paddingTop="5sp"
-        android:paddingBottom="5sp" />
+        android:paddingTop="20sp"
+        android:paddingBottom="20sp" />
 
     <ImageView
         android:layout_width="150sp"

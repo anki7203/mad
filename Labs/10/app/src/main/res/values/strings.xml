@@ -3,6 +3,7 @@
     <string name="title">Find a Game!</string>
     <string name="subTitle">Select a Genre:</string>
     <string name="btnLabel">Find Game</string>
+    <string name="titleSegway">You should check out</string>
 
 
     <string-array name="genres">
