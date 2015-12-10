@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Pizza</string>
+    <string name="app_title">Benim Pizza inşa</string>
+    <string name="name_editText">Senin Pizza Ad!</string>
+    <string name="name_btn">Isim!</string>
+    <string name="crust_label">Ekmek stili seçin:</string>
+    <string name="crust_thin">İnce</string>
+    <string name="crust_thick">Kalın</string>
+    <string name="topping_pepperoni">Pepperoni</string>
+    <string name="topping_mushrroms">Mantar</string>
+    <string name="topping_onion">Soğan</string>
+    <string name="topping_sausage">Sosis</string>
+    <string name="gluten_free">Glütensiz</string>
+    <string name="make_btn">Pizza Yap!</string>
+    <string name="find_btn">Pizza bul!</string>
+</resources>

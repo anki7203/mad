@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Pizza</string>
+    <string name="app_title">Build My Pizza</string>
+    <string name="name_editText">Name your Pizza!</string>
+    <string name="name_btn">Name It!</string>
+    <string name="crust_label">Choose crust style:</string>
+    <string name="crust_thin">Thin</string>
+    <string name="crust_thick">Thick</string>
+    <string name="topping_pepperoni">Pepperoni</string>
+    <string name="topping_mushrroms">Mushrooms</string>
+    <string name="topping_onion">Onions</string>
+    <string name="topping_sausage">Sausage</string>
+    <string name="gluten_free">Gluten Free</string>
+    <string name="make_btn">Make Pizza!</string>
+    <string name="find_btn">Find Pizza!</string>
+</resources>
